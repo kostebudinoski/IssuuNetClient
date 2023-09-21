@@ -1,0 +1,3 @@
+# IssuuNetClient
+
+IssuuNetClient is a lightweight C# package designed to effortlessly retrieve information about documents on Issuu. With this tool, you can easily access documents associated with a specific username and document name, all without the need for an API key. Streamlined and user-friendly, this package simplifies the process of gathering Issuu document details for seamless integration into your projects.

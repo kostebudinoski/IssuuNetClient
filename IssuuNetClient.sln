@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IssuuNetClient", "src\IssuuNetClient\IssuuNetClient.csproj", "{F460AB64-6DBF-480D-A63A-465A592D7154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IssuuNetClient.Console", "src\IssuuNetClient.Console\IssuuNetClient.Console.csproj", "{5A5FCA0C-A11A-42FC-868D-627F1CACBC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IssuuNetClient.DI", "src\IssuuNetClient.DI\IssuuNetClient.DI.csproj", "{8AA49D55-3E35-4BCF-ABBE-75B5ADB26172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F460AB64-6DBF-480D-A63A-465A592D7154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F460AB64-6DBF-480D-A63A-465A592D7154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F460AB64-6DBF-480D-A63A-465A592D7154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F460AB64-6DBF-480D-A63A-465A592D7154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5FCA0C-A11A-42FC-868D-627F1CACBC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5FCA0C-A11A-42FC-868D-627F1CACBC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5FCA0C-A11A-42FC-868D-627F1CACBC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5FCA0C-A11A-42FC-868D-627F1CACBC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA49D55-3E35-4BCF-ABBE-75B5ADB26172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA49D55-3E35-4BCF-ABBE-75B5ADB26172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA49D55-3E35-4BCF-ABBE-75B5ADB26172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA49D55-3E35-4BCF-ABBE-75B5ADB26172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
